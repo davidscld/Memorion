@@ -20,5 +20,6 @@ public class Logica {
     public void abrirFrameRankingJugadores(){
         VistaRankingJugadores vistaRankingJugadores=new VistaRankingJugadores();
         vistaRankingJugadores.setVisible(true);
+        System.out.println("");
     }
 }
