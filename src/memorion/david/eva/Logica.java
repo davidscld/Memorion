@@ -5,10 +5,12 @@
  */
 package memorion.david.eva;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author dvdsa
  */
 public class Logica {
-    
+  
 }
